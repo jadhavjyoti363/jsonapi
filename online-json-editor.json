@@ -1,0 +1,42 @@
+{
+  "quiz": [
+    {
+      "question": "Assisttive mode not working properly, patient not able to reach flags?",
+      "answer": "Done callibration at customer place, given complete training about MMT"
+    },
+    {
+      "question": "Bluetooth connection isssue?",
+      "answer": "Ardino Replaced"
+    },
+    {
+      "question": "How can users edit a patient's profile?",
+      "answer": "Users can edit a patient's profile through the provided interface for editing patient profiles."
+    },
+    {
+      "question": "Removed locking knob of tablet stand?",
+      "answer": "Sent video for fixing the knob"
+    },
+    {
+      "question": "Tab Locked. need to foramat & APPs need to reinstall?",
+      "answer": "Given online support for app installation & Calibration"
+    },
+    {
+      "question": "Knee hip attachment not fixing properly?",
+      "answer": "Replaced Knee-Hip Attachment Brace & Adaptor"
+    },
+    {
+      "question": "App Not working?",
+      "answer": "Software upgradation"
+    },
+    {
+      "question": "Knee hip attachment not fixing properly?",
+      "answer": "Replaced Knee-Hip Attachment Brace & Adaptor"
+    },
+    {
+      "question": "Grub screw loosen?",
+      "answer": "Given online instructions"
+    }
+
+
+  ]
+}
