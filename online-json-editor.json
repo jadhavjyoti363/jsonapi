@@ -35,8 +35,45 @@
     {
       "question": "Grub screw loosen?",
       "answer": "Given online instructions"
+    }, 
+    {
+      "question": "Not feeling assitance and resistance?",
+      "answer": "Check emergancy switch and it should not press"
+    },
+    {
+      "question": "Training mode not working properly ?",
+      "answer": "Restart the application or Restart the tab"
+    },
+    {
+      "question": "Bluetooth connection isssue ?",
+      "answer": "Restart the application or Restart the tab"
+    },
+    {
+      "question": "Human effort not showing ?",
+      "answer": "switch on the machine without attaching the attachment"
+    },
+
+    {
+      "question": "Patient not able to reach target ?",
+      "answer": "Check the fulcrum position match with respect to joint"
+    },
+    {
+      "question": "Noise from the machine ?",
+      "answer": "Reduse the range"
+    },
+
+    {
+      "question": "Not able to fix attachment ?",
+      "answer": "Contact to service center"
+    },
+
+    {
+      "question": "Machine not switch on ?",
+      "answer": "Check the power cable or Contact to service center"
+    },
+    {
+      "question": "In ADL application movement in wrong direction ?",
+      "answer": "Switch side position"
     }
-
-
   ]
 }
