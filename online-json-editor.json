@@ -42,11 +42,6 @@ By following these steps, you can troubleshoot and often resolve Bluetooth conne
     },
     {
       "question": "Human effort not showing ?",
-      "answer": "switch on the machine without attaching the attachment"
-    },
-
-    {
-      "question": "Patient not able to reach target ?",
       "answer": "If the human effort is not showing, you can try the following steps to resolve the issue:
 
 Switch on the Machine: Ensure that the machine is switched on properly.
