@@ -3,20 +3,20 @@
     {
       "question": "Not feeling assitance and resistance?",
       "answer": "If you are not feeling assistance and resistance, it could be due to an issue with the emergency switch. 
-               Here are the steps to troubleshoot and resolve this issue:
+Here are the steps to troubleshoot and resolve this issue:
 
-               Check the Emergency Switch: Locate the emergency switch on your device.
- 
-               Ensure It Is Not Pressed: Make sure the emergency switch is not pressed or engaged. 
-               When the emergency switch is pressed, it can disable certain functions, including assistance and resistance.
+Check the Emergency Switch: Locate the emergency switch on your device. 
 
-               Reset the Switch: If the switch appears to be in the correct position but the problem persists, try resetting it by pressing and then releasing it.
+Ensure It Is Not Pressed: Make sure the emergency switch is not pressed or engaged. 
+When the emergency switch is pressed, it can disable certain functions, including assistance and resistance.
 
-               Inspect for Damage: Examine the switch for any signs of damage or wear that might affect its operation. If the switch is damaged, it may need to be replaced.
+Reset the Switch: If the switch appears to be in the correct position but the problem persists, try resetting it by pressing and then releasing it.
 
-               Consult the Manual: Refer to the device's user manual for specific instructions related to the emergency switch and its impact on assistance and resistance functions.
+Inspect for Damage: Examine the switch for any signs of damage or wear that might affect its operation. If the switch is damaged, it may need to be replaced.
 
-               By following these steps, you can ensure that the emergency switch is not inadvertently preventing the device from providing the necessary assistance and resistance."
+Consult the Manual: Refer to the device's user manual for specific instructions related to the emergency switch and its impact on assistance and resistance functions.
+
+By following these steps, you can ensure that the emergency switch is not inadvertently preventing the device from providing the necessary assistance and resistance."
     },
     {
       "question": "Training mode not working properly ?",
@@ -26,7 +26,8 @@
           
  Restart the Tablet: If restarting the application doesn't help, try restarting the tablet. This can clear any software conflicts or temporary issues affecting the training mode.
  
-Check Calibration: Ensure that the device is properly calibrated. Calibration issues can cause the training mode to malfunction. Follow the calibration instructions in the user      manual to recalibrate the device correctly.
+Check Calibration: Ensure that the device is properly calibrated. Calibration issues can cause the training mode to malfunction. Follow the calibration instructions in the user manual to recalibrate the device correctly.
+
 By following these steps, you can troubleshoot and often resolve issues with the training mode not working properly. If the problem persists after trying these steps, you may need to contact customer support for further assistance."
     },
     {
@@ -34,10 +35,13 @@ By following these steps, you can troubleshoot and often resolve issues with the
       "answer": "If you're experiencing a Bluetooth connection issue, you can try the following steps to resolve the problem:
 
 Restart the Application: Sometimes, restarting the application can resolve temporary glitches affecting the Bluetooth connection. Close the app completely and then reopen it to see if the issue is fixed.
+
 Restart the Tablet: If restarting the application doesn't help, try restarting the tablet. This can clear any software conflicts or temporary issues that might be affecting the Bluetooth connection.
+
 Replace the Arduino Board: If the Bluetooth connection issue persists, it could be due to a faulty Arduino board. Replacing the Arduino board can often resolve connectivity problems. 
 
 Ensure that all connections between your Bluetooth module and the Arduino are secure and correctly wired, and consider updating the firmware on both devices.
+
 By following these steps, you can troubleshoot and often resolve Bluetooth connection issues. If the problem continues after trying these steps, you may need to seek further assistance or consider additional diagnostics."
     },
     {
@@ -61,6 +65,7 @@ By following these steps, you can troubleshoot why the human effort might not be
       "answer": "If you're hearing noise from the machine, you can try the following step to resolve the issue:
 
 Reduce the Range: Sometimes, excessive noise can be caused by operating the machine at too high a range or intensity. Try reducing the range or setting to a lower level to see if the noise decreases.
+
 Inspect for Loose Parts: Ensure that all parts and components of the machine are securely fastened. Loose parts can cause noise during operation.
 
 Check for Obstructions: Look for any obstructions or foreign objects that might be causing the noise and remove them.
@@ -77,7 +82,9 @@ By following these steps, you can often identify and resolve the source of the n
       "answer": "If you are not able to fix the attachment, you can try the following steps to resolve the issue:
 
 Check the Attachment and Connection Points: Ensure that the attachment and its connection points are clean, undamaged, and free of obstructions. Sometimes, dirt or debris can prevent a secure connection.
+
 Follow the User Manual: Refer to the user manual for specific instructions on how to properly fix the attachment. Make sure you are following the recommended steps and using the correct method.
+
 Inspect for Compatibility: Verify that the attachment is compatible with your machine. Using an incompatible attachment can lead to issues with fitting.
 
 Contact the Service Center: If you are still unable to fix the attachment after following the above steps, contact the service center for professional assistance. The service center can provide expert help and may be able to repair or replace any faulty parts.
@@ -90,6 +97,7 @@ By following these steps, you can address issues with fixing the attachment. If 
       "answer": "If your machine is not switching on, you can try the following steps to resolve the issue:
 
 Check the Power Cable: Ensure that the power cable is securely connected to both the machine and the power outlet. Sometimes, a loose connection can prevent the machine from receiving power.
+
 Inspect the Power Source: Verify that the power outlet is functioning properly. You can test it by plugging in another device to see if it receives power.
 
 Look for Visible Damage: Examine the power cable and plug for any visible signs of damage, such as fraying or exposed wires. If the power cable is damaged, it may need to be replaced.
